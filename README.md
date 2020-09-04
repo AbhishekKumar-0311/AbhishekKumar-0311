@@ -21,5 +21,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to start with hands-on project in Machine Learning.
 - 📫 How to reach me: https://bit.ly/AKSLinkedIn
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&hide=contribs,prs&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKumar-0311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekKumar-0311&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&hide=contribs,prs) -->
+
 
