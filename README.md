@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Exploratory Data Analysis.
+- 🌱 I’m currently pursuing Post-Graduation in Machine Learning and Artificial Intelligence.
+- 👯 I’m looking to collaborate on Kaggle competitions.
+- 🤔 I’m looking for help to start with hands-on project in Machine Learning.
+- 📫 How to reach me: https://bit.ly/AKSLinkedIn
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&hide=contribs,prs)
+
