@@ -63,11 +63,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekKumar-0311&repo=EDA-Investment-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<!--
+
 <a href="https://github.com/AbhishekKumar-0311/EDA_World-Development-Indicators">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekKumar-0311&repo=EDA_World-Development-Indicators&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 -->
+
 ## &#9993; Contact
 
 [![LinkedIn][3.2]][3] Check out my [*LinkedIn*](https://bit.ly/AKSLinkedIn) profile for more information on my career.
