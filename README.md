@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/AbhishekKumar-0311/AbhishekKumar-0311">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhishek's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3fa6d5&bg_color=1d1f21" alt="Abhishek's GitHub Stats" />
 </a>
 <!--
 <a href="https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis">
