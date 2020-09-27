@@ -41,6 +41,26 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Tools-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=3fa6d5)
 
+## &#x1f4c8; GitHub Stats
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKumar-0311&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/AbhishekKumar-0311/AbhishekKumar-0311">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKumar-0311&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/AbhishekKumar-0311/AbhishekKumar-0311">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhishek's GitHub Stats" />
+</a>
+
+<a href="https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekKumar-0311&repo=EDA-Investment-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/AbhishekKumar-0311/EDA_World-Development-Indicators">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekKumar-0311&repo=EDA_World-Development-Indicators&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
 ## &#9993; Contact
 
 [![LinkedIn][3.2]][3] Check out my [*LinkedIn*](https://bit.ly/AKSLinkedIn) profile for more information on my career.
@@ -51,8 +71,6 @@ Feel free to contact me by email: *abhi03.11sharma@gmail.com.fr*.
 [3]: https://bit.ly/AKSLinkedIn
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKumar-0311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <br>
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&hide=contribs,prs&show_icons=true&theme=radical)
 
