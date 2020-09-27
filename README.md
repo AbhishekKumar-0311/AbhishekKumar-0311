@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently pursuing Post-Graduation in Machine Learning and Artificial Intelligence.
-- 👯 I’m looking to collaborate on Kaggle competitions.
+- 👯 I’m looking to collaborate on Analytics, NLP, Data Science and Kaggle competitions.
 - 🤔 I’m looking for help to start with hands-on project in Machine Learning.
+- 👨 Know more about me at [Sourcerer](https://sourcerer.io/abhishekkumar-0311). 
 
 ## &#128218; Ongoing Projects
 
