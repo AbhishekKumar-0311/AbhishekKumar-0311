@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - **EDA - Investment Analysis:** *Finished*.
     
-    *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company. *
+    *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
 
     [Click here to see the project](https://github.com/).
  
