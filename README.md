@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Kaggle competitions.
 - 🤔 I’m looking for help to start with hands-on project in Machine Learning.
 
-## &#128218; Current projects
+## &#128218; Ongoing Projects
+
+## &#128218; Completed Projects
 
 - **EDA - Investment Analysis:** *Finished*.
     
