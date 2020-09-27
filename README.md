@@ -1,5 +1,8 @@
 <!-- ### Hi there 👋 -->
 # Hi there !!! Welcome to my Github <img src="https://github.com/SalimAmarti/SalimAmarti/blob/master/wave.gif" width="30px">
+
+My name is Abhishek Kumar and I'm a Software developer & a Machine Learning enthusiast. I'm from Pune, India and currently working at SAS R&D.
+Find more about me on [![LinkedIn][3.2]][3] or [![Twitter][1.2]][1]
 <!--
 **AbhishekKumar-0311/AbhishekKumar-0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,9 +24,11 @@ Here are some ideas to get you started:
 
 ## &#128218; Ongoing Projects
 
+- **Will start one soon:**
+
 ## &#128218; Completed Projects
 
-- **EDA - Investment Analysis:** *Finished*.
+- **EDA - Investment Analysis:**
     
     *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
 
@@ -69,14 +74,40 @@ Here are some ideas to get you started:
 
 Feel free to contact me by email: *abhi03.11sharma@gmail.com.fr*.
 
+
+
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://github.com/AbhishekKumar-0311/AbhishekKumar-0311/blob/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://bit.ly/AKSTwitter
+[2]: https://bit.ly/AKGithub
 [3]: https://bit.ly/AKSLinkedIn
 
 
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
 <!-- <br>
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&hide=contribs,prs&show_icons=true&theme=radical)
-
-
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekKumar-0311&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumar-0311&hide=contribs,prs) -->
 
