@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 
 ## &#128218; Ongoing Projects
 
-- **Will start one soon:**
+- **EDA - LendingClub Credit Default Analysis:**
+
+    *The Credit Defaulters Analysis is performed on customers of LendingClub to understand the driver variables behind loan default. These important features would be used to minimize the risks from the possible bad loans.*
+    
+    [Click here to see the project](https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis).
 
 ## &#128218; Completed Projects
 
