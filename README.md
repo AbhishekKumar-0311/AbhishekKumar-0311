@@ -31,14 +31,20 @@ Here are some ideas to get you started:
 
 ## &#128218; Ongoing Projects
 
+- **ML - BikeSharing Demand Prediction:**
+
+    *This project tries to predict bike sharing demand after the ongoing quarantine situation ends using linear regression.*
+    
+    [Click here to see the project](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction).
+
+## &#128218; Completed Projects
+
 - **EDA - LendingClub Credit Default Analysis:**
 
     *The Credit Defaulters Analysis is performed on customer data of LendingClub to understand the driver features behind loan default. These important features would be used to minimize the risks from the possible bad loans.*
     
     [Click here to see the project](https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis).
-
-## &#128218; Completed Projects
-
+    
 - **EDA - Investment Analysis:**
     
     *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
