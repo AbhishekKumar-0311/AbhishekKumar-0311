@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Code-Scikit--Learn-informational?style=flat&logo=Scikit--Learn&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Viz-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Viz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Viz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=3fa6d5)
