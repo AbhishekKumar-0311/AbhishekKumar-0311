@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - **ML - BikeSharing Demand Prediction:**
 
-    *This project tries to predict bike sharing demand after the ongoing quarantine situation ends using linear regression.*
+    *This project tries to predict shared bike demand after the ongoing quarantine situation ends using multiple linear regression model.*
     
     [Click here to see the project](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction).
 
