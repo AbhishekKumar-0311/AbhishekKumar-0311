@@ -31,14 +31,20 @@ Here are some ideas to get you started:
 
 ## &#128218; Ongoing Projects
 
+- **ML - Telecom Churn Prediction:**
+
+    *This project tries to identify the main indicators of churn and predict the customers at high risk of churn through logistic regression.*
+    
+    [Click here to see the project](https://github.com/AbhishekKumar-0311/ML-Telecom-Churn-Prediction).
+
+## &#128218; Completed Projects
+
 - **ML - BikeSharing Demand Prediction:**
 
     *This project tries to predict shared bike demand after the ongoing quarantine situation ends using multiple linear regression model.*
     
     [Click here to see the project](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction).
-
-## &#128218; Completed Projects
-
+    
 - **EDA - LendingClub Credit Default Analysis:**
 
     *The Credit Defaulters Analysis is performed on customer data of LendingClub to understand the driver features behind loan default. These important features would be used to minimize the risks from the possible bad loans.*
