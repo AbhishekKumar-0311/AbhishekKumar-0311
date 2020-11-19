@@ -57,6 +57,15 @@ Here are some ideas to get you started:
 
     [Click here to see the project](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis).
  
+ ## &#128218; Guided Projects
+ 
+ - **ML - SMS Classifier:**
+
+    *This project classifies the SMS as spam vs non-spam through naive bayes.*
+    
+    [Click here to see the project](https://github.com/AbhishekKumar-0311/ML-SMS-Classifier).
+ 
+ 
  ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3fa6d5)
