@@ -38,31 +38,24 @@ Here are some ideas to get you started:
 
 ## &#128218; Completed Projects
 
-- **ML - BikeSharing Demand Prediction:**
+- **[ML - BikeSharing Demand Prediction](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction)**
 
     *This project tries to predict shared bike demand after the ongoing quarantine situation ends using multiple linear regression model.*
     
-    [Click here to see the project](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction).
-    
-- **EDA - LendingClub Credit Default Analysis:**
+- **[EDA - LendingClub Credit Default Analysis](https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis)**
 
     *The Credit Defaulters Analysis is performed on customer data of LendingClub to understand the driver features behind loan default. These important features would be used to minimize the risks from the possible bad loans.*
     
-    [Click here to see the project](https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis).
-    
-- **EDA - Investment Analysis:**
+- **[EDA - Investment Analysis](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis)**
     
     *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
-
-    [Click here to see the project](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis).
+ 
  
  ## &#128218; Guided Projects
  
- - **ML - SMS Classifier:**
+ - **[ML - SMS Classifier](https://github.com/AbhishekKumar-0311/ML-SMS-Classifier)**
 
     *This project classifies the SMS as spam vs non-spam through naive bayes.*
-    
-    [Click here to see the project](https://github.com/AbhishekKumar-0311/ML-SMS-Classifier).
  
  
  ## 🔧 Technologies & Tools
