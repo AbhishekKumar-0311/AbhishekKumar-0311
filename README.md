@@ -31,11 +31,10 @@ Here are some ideas to get you started:
 
 ## &#128218; Ongoing Projects
 
-- **ML - Telecom Churn Prediction:**
+- **[ML - Telecom Churn Prediction](https://github.com/AbhishekKumar-0311/ML-Telecom-Churn-Prediction)**
 
     *This project tries to identify the main indicators of churn and predict the customers at high risk of churn through logistic regression.*
-    
-    [Click here to see the project](https://github.com/AbhishekKumar-0311/ML-Telecom-Churn-Prediction).
+
 
 ## &#128218; Completed Projects
 
