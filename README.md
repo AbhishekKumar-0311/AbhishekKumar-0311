@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - **[ML - BikeSharing Demand Prediction](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction)**
 
-    *This project tries to predict shared bike demand after the ongoing quarantine situation ends using multiple linear regression model.*
+    *This project tries to predict shared bike demand after the COVID-19 quarantine situation ends using multiple linear regression model.*
     
 - **[EDA - LendingClub Credit Default Analysis](https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis)**
 
