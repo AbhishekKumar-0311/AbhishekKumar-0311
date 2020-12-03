@@ -29,12 +29,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to start with hands-on project in Machine Learning.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/abhishekkumar-0311). 
 
-## &#128218; Ongoing Projects
+## &#128218; Ongoing Tasks
 
-- **[ML - Telecom Churn Prediction](https://github.com/AbhishekKumar-0311/ML-Telecom-Churn-Prediction)**
+- **[ML - Will start soon](https://github.com/)**
 
-    *This project tries to identify the main indicators of churn and predict the customers at high risk of churn through logistic regression.*
+    *This project tries to implement time-series forecasting.*
 
+- **[ML - Machine Learning with Python](https://github.com/AbhishekKumar-0311/Machine-Learning-with-Python)**
+
+    *This repo consists of Learning & Practice with tutorial-style notebooks covering different machine learning techniques & its related concepts.*
 
 ## &#128218; Completed Projects
 
@@ -51,12 +54,16 @@ Here are some ideas to get you started:
     *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
  
  
- ## &#128218; Guided Projects
+ ## &#128218; Micro Projects
  
  - **[ML - SMS Classifier](https://github.com/AbhishekKumar-0311/ML-SMS-Classifier)**
 
     *This project classifies the SMS as spam vs non-spam through naive bayes.*
  
+ - **[ML - Telecom Churn Prediction](https://github.com/AbhishekKumar-0311/ML-Telecom-Churn-Prediction)**
+
+    *This project tries to identify the main indicators of churn and predict the customers at high risk of churn through logistic regression.*
+
  
  ## 🔧 Technologies & Tools
 
