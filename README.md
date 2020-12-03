@@ -64,6 +64,10 @@ Here are some ideas to get you started:
 
     *This project tries to identify the main indicators of churn and predict the customers at high risk of churn through logistic regression.*
 
+ - **[ML - Olympics Data Analysis](https://github.com/AbhishekKumar-0311/EDA-Olympics-Data-Analysis)**
+
+    *In this project I have performed an Exploratory Data Analysis (EDA) to find the top performing countries in Olympics.*
+
  
  ## 🔧 Technologies & Tools
 
