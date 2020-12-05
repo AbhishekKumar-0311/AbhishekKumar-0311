@@ -5,7 +5,7 @@
 
 # Hi Folks ! Welcome to my Github <img src="https://github.com/AbhishekKumar-0311/AbhishekKumar-0311/blob/master/assets/wave.gif" width="30px">
 
-My name is Abhishek Kumar and I'm a Software developer & a Machine Learning enthusiast. I'm from Pune, India and currently working at SAS R&D.
+My name is Abhishek Kumar and I'm a Data Analyst & Software Developer with a budding interest in Machine Learning. I'm from Pune, India and currently working at SAS R&D.
 Find more about me on [![LinkedIn][3.2]][3] or [![Twitter][1.2]][1]
 
 <!-- ### Hi there 👋 -->
