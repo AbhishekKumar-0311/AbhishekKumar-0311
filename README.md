@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently pursuing Post-Graduation in Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate on Analytics, NLP, Data Science and Kaggle competitions.
-- 🤔 I’m looking for help to start with hands-on project in Machine Learning.
+- 🤔 I’m looking for help to start with end-to-end projects in Machine Learning.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/abhishekkumar-0311). 
 
 ## &#128218; Ongoing Tasks
@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Code-Scikit--learn-informational?style=flat&logo=Scikit--learn&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Viz-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Viz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=3fa6d5)
 ![](https://img.shields.io/badge/Viz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=3fa6d5)
