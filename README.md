@@ -40,11 +40,7 @@ Here are some ideas to get you started:
     *This repo consists of Learning & Practice with tutorial-style notebooks covering different machine learning techniques & its related concepts.*
 
 ## &#128218; Completed Projects
-
-- **[ML - Micro Projects](https://github.com/AbhishekKumar-0311/ML-Micro-Projects)**
-
-    *This repository contains the Micro Machine Learning Tasks completed during academic, self-learning and hobby times.*
-    
+  
 - **[ML - Shared Bike Demand Prediction](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction)**
 
     *This project tries to predict shared bike demand after the COVID-19 quarantine situation ends using multiple linear regression model.*
@@ -57,7 +53,10 @@ Here are some ideas to get you started:
     
     *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
 
+- **[ML - Micro Projects](https://github.com/AbhishekKumar-0311/ML-Micro-Projects)**
 
+    *This repository contains the Micro Machine Learning Tasks completed during academic, self-learning and hobby times.*
+  
  
  ## 🔧 Technologies & Tools
 
