@@ -41,32 +41,22 @@ Here are some ideas to get you started:
 
 ## &#128218; Completed Projects
 
-- **[ML - BikeSharing Demand Prediction](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction)**
+- **[ML - Micro Projects](https://github.com/AbhishekKumar-0311/ML-Micro-Projects)**
+
+    *This repository contains the Micro Machine Learning Tasks completed during academic, self-learning and hobby times.*
+    
+- **[ML - Shared Bike Demand Prediction](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction)**
 
     *This project tries to predict shared bike demand after the COVID-19 quarantine situation ends using multiple linear regression model.*
     
-- **[EDA - LendingClub Credit Default Analysis](https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis)**
+- **[EDA - Lending Club Credit Default Analysis](https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis)**
 
     *The Credit Defaulters Analysis is performed on customer data of LendingClub to understand the driver features behind loan default. These important features would be used to minimize the risks from the possible bad loans.*
     
 - **[EDA - Investment Analysis](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis)**
     
     *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
- 
- 
- ## &#128218; Micro Projects
- 
- - **[ML - SMS Classifier](https://github.com/AbhishekKumar-0311/ML-SMS-Classifier)**
 
-    *This project classifies the SMS as spam vs non-spam through naive bayes.*
- 
- - **[ML - Telecom Churn Prediction](https://github.com/AbhishekKumar-0311/ML-Telecom-Churn-Prediction)**
-
-    *This project tries to identify the main indicators of churn and predict the customers at high risk of churn through logistic regression.*
-
- - **[EDA - Olympics Data Analysis](https://github.com/AbhishekKumar-0311/EDA-Olympics-Data-Analysis)**
-
-    *In this project I have performed an Exploratory Data Analysis (EDA) to find the top performing countries in Olympics.*
 
  
  ## 🔧 Technologies & Tools
