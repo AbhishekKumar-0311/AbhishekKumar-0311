@@ -34,10 +34,14 @@ Here are some ideas to get you started:
 - **[ML - Will start soon](https://github.com/)**
 
     *This project tries to implement time-series forecasting.*
+    
+- **[ML - Micro Projects](https://github.com/AbhishekKumar-0311/ML-Micro-Projects)**
+
+    *This repository contains the Micro Machine Learning Projects & Tasks completed during academic, self-learning and hobby times. [WiP...]*
 
 - **[ML - Machine Learning with Python](https://github.com/AbhishekKumar-0311/Machine-Learning-with-Python)**
 
-    *This repo consists of Learning & Practice with tutorial-style notebooks covering different machine learning techniques & its related concepts.*
+    *This repo consists of Learning & Practice with tutorial-style notebooks covering different machine learning techniques & its related concepts. [WiP...]*
 
 ## &#128218; Completed Projects
   
@@ -53,10 +57,6 @@ Here are some ideas to get you started:
     
     *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
 
-- **[ML - Micro Projects](https://github.com/AbhishekKumar-0311/ML-Micro-Projects)**
-
-    *This repository contains the Micro Machine Learning Projects & Tasks completed during academic, self-learning and hobby times. [WiP...]*
-  
  
  ## 🔧 Technologies & Tools
 
