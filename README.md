@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 - **[ML - Micro Projects](https://github.com/AbhishekKumar-0311/ML-Micro-Projects)**
 
-    *This repository contains the Micro Machine Learning Tasks completed during academic, self-learning and hobby times.*
+    *This repository contains the Micro Machine Learning Projects & Tasks completed during academic, self-learning and hobby times. [WiP...]*
   
  
  ## 🔧 Technologies & Tools
