@@ -44,7 +44,11 @@ Here are some ideas to get you started:
     *This repo consists of Learning & Practice with tutorial-style notebooks covering different machine learning techniques & its related concepts. [WiP...]*
 
 ## &#128218; Completed Projects
-  
+
+- **[ML - House Price Prediction](https://github.com/AbhishekKumar-0311/ML-House-Price-Prediction)**
+
+    *This project predicts the house price using advanced regression techniques like Ridge & Lasso.*
+   
 - **[ML - Shared Bike Demand Prediction](https://github.com/AbhishekKumar-0311/ML-BikeSharing-Demand-Prediction)**
 
     *This project tries to predict shared bike demand after the COVID-19 quarantine situation ends using multiple linear regression model.*
