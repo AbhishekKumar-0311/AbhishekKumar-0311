@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 
 ## &#128218; Completed Projects
 
+- **[ML - Telecom Churn Prediction](https://github.com/AbhishekKumar-0311/ML-Telecom-Churn-Prediction)**
+
+    *This project tries to identify customers at high risk of churn and identify the main indicators of churn through different techniques.*
+    
 - **[ML - House Price Prediction](https://github.com/AbhishekKumar-0311/ML-House-Price-Prediction)**
 
     *This project predicts the house price using advanced regression techniques like Ridge & Lasso.*
