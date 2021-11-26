@@ -5,7 +5,7 @@
 
 # Hi Folks ! Welcome to my Github <img src="https://github.com/AbhishekKumar-0311/AbhishekKumar-0311/blob/master/assets/wave.gif" width="30px">
 
-My name is Abhishek Kumar and I'm a Data Analyst & Software Developer with a budding interest in Machine Learning. I'm from Pune, India and currently working at SAS R&D.
+My name is Abhishek Kumar and I'm a Data Analyst & Software Developer with a budding interest in Machine Learning. I'm from Bangalore, India and currently working at Deloitte.
 Find more about me on [![LinkedIn][3.2]][3] or [![Twitter][1.2]][1]
 
 <!-- ### Hi there 👋 -->
@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently pursuing Post-Graduation in Machine Learning and Artificial Intelligence.
+
 - 👯 I’m looking to collaborate on Analytics, NLP, Data Science and Kaggle competitions.
 - 🤔 I’m looking for help to start with end-to-end projects in Machine Learning.
+- 🌱 I've pursued Post-Graduation in Machine Learning and Artificial Intelligence.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/abhishekkumar-0311). 
 
 ## &#128218; Ongoing Tasks
