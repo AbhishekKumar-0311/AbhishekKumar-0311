@@ -67,10 +67,7 @@ Here are some ideas to get you started:
     *In this project I have performed an extensive Exploratory Data Analysis (EDA) to find the best investment funds, top english speaking countries to invest in the top 3 sectors on behalf of the Spark Funds, an asset management company.*
 
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+ ## 🔧 Technologies & Tools
 
 <p align="left">
   <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
