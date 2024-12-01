@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Engineering, Analytics, NLP, Data Science and Kaggle competitions.
 - 🤔 I’m looking for help to start with end-to-end projects in Cloud based data solutions.
 - 🌱 I've pursued Post-Graduation in Machine Learning and Artificial Intelligence.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/abhishekkumar-0311). 
+- 👨 Know more about me at [Dive-In](https://bold.pro/my/abhishekkumar-0311). 
 
 ## &#128218; Ongoing Tasks
 
