@@ -5,7 +5,7 @@
 
 # Hi Folks ! Welcome to my Github <img src="https://github.com/AbhishekKumar-0311/AbhishekKumar-0311/blob/master/assets/wave.gif" width="30px">
 
-My name is Abhishek Kumar and I'm a BI Engineer, Data Analyst & SDE with a budding interest in Machine Learning. I'm from Bangalore, India and currently working at Deloitte.
+My name is Abhishek Kumar and I'm a Data Engineer / BIE with a enthu for Machine Learning. I'm from Bangalore, India and currently working at Amazon.
 Find more about me on [![LinkedIn][3.2]][3] or [![Twitter][1.2]][1]
 
 <!-- ### Hi there 👋 -->
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 👯 I’m looking to collaborate on Analytics, NLP, Data Science and Kaggle competitions.
-- 🤔 I’m looking for help to start with end-to-end projects in Machine Learning.
+- 👯 I’m looking to collaborate on Data Engineering, Analytics, NLP, Data Science and Kaggle competitions.
+- 🤔 I’m looking for help to start with end-to-end projects in Cloud based data solutions.
 - 🌱 I've pursued Post-Graduation in Machine Learning and Artificial Intelligence.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/abhishekkumar-0311). 
 
